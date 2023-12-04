@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kipngenokevin
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning C Programming Language
+- 🌱 I’m currently learning Python Programming Language
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me ... Instagram: @kipngeno.kevin
 
