@@ -42,6 +42,6 @@ I am enthusiastic about learning new technologies and continually improving my c
 
 ## 📫 How to Reach Me
 - **Email:** kipngenokevin254@gmail.com
-- **LinkedIn:** [inkedin.com/in/kipngenokevin254/](https://www.linkedin.com/in/kipngenokevin254/)
+- **LinkedIn:** [linkedin.com/in/kipngenokevin254/](https://www.linkedin.com/in/kipngenokevin254/)
 
 Let's connect and build something awesome!
