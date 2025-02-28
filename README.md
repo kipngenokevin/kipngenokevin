@@ -34,6 +34,7 @@ I am a passionate Fullstack Developer with a strong focus on building efficient,
    - Built and deployed a custom restaurant management system for a restaurant called **Artcaffe**.
    - Integrated **data bundle purchase** into the menu.
    - Captured the aesthetic and functional needs of the restaurant’s customers.
+   - [Artcaffe Menu](https://artcaffemenu.ubuntu.click/)
 
 Check out the code for this and other projects in my [GitHub Repositories](https://github.com/kipngenokevin?tab=repositories).
 
