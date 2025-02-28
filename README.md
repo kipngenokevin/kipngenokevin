@@ -35,7 +35,7 @@ I am a passionate Fullstack Developer with a strong focus on building efficient,
    - Integrated **data bundle purchase** into the menu.
    - Captured the aesthetic and functional needs of the restaurant’s customers.
 
-Check out the code for this and other projects in my [GitHub Repositories](#).
+Check out the code for this and other projects in my [GitHub Repositories](https://github.com/kipngenokevin?tab=repositories).
 
 ## 🎯 What Drives Me
 I am enthusiastic about learning new technologies and continually improving my craft. Coding isn’t just a job for me – it’s a passion. I enjoy tackling challenges, building innovative solutions, and contributing to exciting projects.
